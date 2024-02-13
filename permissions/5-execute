@@ -1,2 +1,2 @@
 #!/bin/bash
--rwx--x--- hello 
+sudo chmod --x 
