@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+rwxg+xo+wx hello
+chmod 213 hello
