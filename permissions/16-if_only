@@ -1,2 +1,2 @@
 #!/bin/bash
-userdel vincent hello
+sudo chown vincent guillaume hello
