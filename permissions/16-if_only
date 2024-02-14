@@ -1,2 +1,2 @@
 #!/bin/bash
-useradd vincent;guillaume;chown guillaume hello
+sudo useradd vincent chown guillaume hello
