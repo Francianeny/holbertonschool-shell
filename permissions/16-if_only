@@ -1,2 +1,2 @@
 #!/bin/bash
-useradd -D vincent hello
+useradd -D guillaume hello
