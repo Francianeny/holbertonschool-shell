@@ -1,2 +1,2 @@
 #!/bin/bash
-useradd -D guillaume hello
+sudo useradd guillaume hello
