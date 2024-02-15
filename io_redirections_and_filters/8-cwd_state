@@ -1,2 +1,2 @@
 #!/bin/bash
-multitail [-i] ls_cwd_content
+ls -la | tail -n
