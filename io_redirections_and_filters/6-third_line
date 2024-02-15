@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -c3 iacta
+grep -c3 iacta
