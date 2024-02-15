@@ -1,2 +1,2 @@
 #!/bin/bash
-cat *ls_cwd_content
+multitail [-i] ls_cwd_content
