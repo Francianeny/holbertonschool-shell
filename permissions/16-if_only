@@ -1,2 +1,2 @@
 #!/bin/bash
-useradd -m vincent hello
+egrep -A 3 'root' /etc/passwd
