@@ -1,2 +1,2 @@
 #!/bin/bash
-read -p "A" "c" : "Z"
+echo $word | tr Ac Ze
