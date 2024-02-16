@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t10
+watch -n 10 'ls -Art  | tail -n 10
