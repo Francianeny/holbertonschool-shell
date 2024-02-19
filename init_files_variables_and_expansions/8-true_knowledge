@@ -1,2 +1,2 @@
 #!/bin/bash
-variable=$(128) ; TRUEKNOWLEDGE
+TRUEKNOWLEDGE=128
